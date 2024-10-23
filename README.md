@@ -1,12 +1,4 @@
-## Hi there 👋
+Hola 
+    <img src="banner.png" alt="b" witdh="100%" height="500px">
 
-    - 🔭 I’m currently working on nothing.
-    - 🌱 I’m currently learning vscode.
-    - 👯 I’m looking to collaborate on proyects.
-    - 🤔 I’m looking for help with english.
-    - 💬 Ask me about movies.
-    - 📫 How to reach me: pedrofonseca.
-    - 😄 Pronouns: he.
-    - ⚡ Fun fact: I like dogs.
-
-
+dygibbyuxufg;hljnbuvrgtyilvt4hf
