@@ -1,4 +1,2 @@
-Hola 
-    <img src="banner.png" alt="b" witdh="100%" height="500px">
 
-dygibbyuxufg;hljnbuvrgtyilvt4hf
+    <img src="banner.png" alt="b" witdh="100%" height="500px">
