@@ -10,8 +10,6 @@
 <br><br>
 SOY PEDRO FONSECA GARZA.<br>
 Soy un programador bilingüe.<br>
-I am  bilingual programer.<br>
-I am passionate frontend developer from Mexico  I am good at problem solving and working with any type of people I like to program in any type of lenguajes and I consider my self an expert. <br>
 Soy un programador apasionado de Mexico soy bueno solucionando problemas y trabajando con cualquier tipo de persona me gusta programar en cualquier tipo de idiom y me considero experto.<br> 
 ESTAS SON MIS REDES SOCIALES <br><br>
 INSTAGRAM:https://www.instagram.com/ye.pedro_/<br>
