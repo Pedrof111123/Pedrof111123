@@ -1,7 +1,10 @@
 
 <img src="banner.png" alt="b" witdh="100%" height="500px">
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCnTjvLL0aTgyard0ENHvikg">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCnTjvLL0aTgyard0ENHvikg">  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Pedrof111123">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Ga_Pedro1">
+
 
 
 <br><br>
