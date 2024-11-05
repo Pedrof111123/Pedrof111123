@@ -19,7 +19,7 @@ SOY UN PROGRAMADOR EXPERTO EN VARIOS LENGUAJES DE PROGRAMACION HTML,JAVASCRIPT,C
 <td width="50%">
 <h3 align="center">MEJORES EXTENCIONES GITHUB</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=RLu_ixZMOho" target="_blank"><img src="https://i.ytimg.com/an_webp/RLu_ixZMOho/mqdefault_6s.webp?du=3000&sqp=CL66qLkG&rs=AOn4CLDhmet3szUBfP-6UVN_pMCY3vcMKA" width="400" alt="Curso básico android"></a>
+<a href="https://www.youtube.com/watch?v=RLu_ixZMOho" target="_blank"><img src="https://i9.ytimg.com/vi/RLu_ixZMOho/mqdefault.jpg?v=672997ce&sqp=COTQqLkG&rs=AOn4CLDPAWVfkUSL1s3D76ITzbU0SkpAfg" width="400" alt="Curso básico android"></a>
 <br>
 <p>todas las extenciones basicas de github.</p>
 </div>
